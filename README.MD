@@ -15,3 +15,4 @@
     + 卷积神经网络基础 ch4_1 CNN_BASE
     + 卷积神经网络实例模型 ch4_2 CNN_INSTANCE
     + 目标检测 ch4_3 CNN_Object Detection
+    + 特殊应用 ch4_4 CNN_Special Application
